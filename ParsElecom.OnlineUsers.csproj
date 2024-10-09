@@ -3,7 +3,6 @@
   <PropertyGroup>
     <OutputType>Library</OutputType>
     <TargetFrameworks>net481;net48;net472;net471;net47</TargetFrameworks>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Pars Elecom Online Users</Title>
     <Authors>gladtidings</Authors>
     <Company>Pars Elecom</Company>
