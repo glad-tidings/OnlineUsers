@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFrameworks>net481;net48;net472;net471;net47</TargetFrameworks>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Pars Elecom Online Users</Title>
+    <Authors>gladtidings</Authors>
+    <Company>Pars Elecom</Company>
+    <Product>Pars Elecom Online Users</Product>
+    <Description>Online Users component for ASP.NET</Description>
+    <Copyright>Copyright © Pars Elecom</Copyright>
+    <PackageProjectUrl>https://github.com/glad-tidings/OnlineUsers</PackageProjectUrl>
+    <PackageTags>Online Users</PackageTags>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Web" />
+  </ItemGroup>
+
+</Project>
