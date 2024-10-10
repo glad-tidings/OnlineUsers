@@ -16,3 +16,7 @@ onlineUsers.SetUserOffline("user2");
 Console.WriteLine(onlineUsers.RegistredUsersCount);
 Console.WriteLine(onlineUsers.GuestUsersCount);
 ```
+
+
+
+![](http://visit.parselecom.com/Api/Visit/13/F80000)
