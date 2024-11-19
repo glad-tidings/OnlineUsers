@@ -19,4 +19,4 @@ Console.WriteLine(onlineUsers.GuestUsersCount);
 
 
 
-![](http://visit.parselecom.com/Api/Visit/13/F80000)
+![](http://visit.parselecom.com/Api/Visit/glad-tidings/OnlineUsers/F80000)
